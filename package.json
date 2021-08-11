@@ -1,0 +1,28 @@
+{
+  "name": "dnsmasq-dhcp",
+  "version": "1.0.0",
+  "description": "A library to start and stop a lightweight DHCP server based on dnsmasq",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justinschw/dnsmasq-dhcp.git"
+  },
+  "keywords": [
+    "dnsmasq",
+    "dhcp",
+    "linux",
+    "networking"
+  ],
+  "author": "Justin Schwartzbeck (justinmschw@gmail.com)",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/justinschw/dnsmasq-dhcp/issues"
+  },
+  "homepage": "https://github.com/justinschw/dnsmasq-dhcp#readme",
+  "dependencies": {
+    "joi": "17.4.2"
+  }
+}
