@@ -24,6 +24,6 @@
   "homepage": "https://github.com/justinschw/dnsmasq-dhcp#readme",
   "dependencies": {
     "joi": "17.4.2",
-    "new-netmask": "1.0.6"
+    "uuid": "8.3.2"
   }
 }
