@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/justinschw/dnsmasq-dhcp#readme",
   "dependencies": {
-    "joi": "17.4.2"
+    "joi": "17.4.2",
+    "new-netmask": "1.0.6"
   }
 }
