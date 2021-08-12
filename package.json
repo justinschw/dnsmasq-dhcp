@@ -1,6 +1,6 @@
 {
   "name": "dnsmasq-dhcp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A library to start and stop a lightweight DHCP server based on dnsmasq",
   "main": "index.js",
   "scripts": {
