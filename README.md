@@ -28,6 +28,7 @@ dhcpServer.start(result => {
 |endIP|String|Last IP in DHCP block|N/A|yes|
 |netmask|String|Network mask|255.255.255.0|default|
 |leaseLength|String|Length that IPs are leased|24h|default|
+|port|Integer|Port that dnsmasq listens on for DNS queries|5353|default|
 |authoritative|Boolean|DHCP server is authoritative on this network|true|default|
 |listenAddress|String|IP Address that DHCP server is listening on|127.0.0.1|default|
 |domain|String|Domain for DHCP server|N/A|no|
